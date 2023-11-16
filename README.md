@@ -7,7 +7,7 @@ And then run this command "npm run dev".
 
 ## Authors
 
-- [@octokatherine](https://github.com/KyawZaw-112)
+- [@KyawZaw-112](https://github.com/KyawZaw-112)
 
 
 ## Badges
